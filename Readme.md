@@ -1,6 +1,10 @@
 # DeepLearning.ai Courses Notes
 
-This repository contains my personal notes and summaries on [DeepLearning.ai](https://deeplearning.ai) specialization courses. I've enjoyed every little bit of the course hope you enjoy my notes too.
+This repository contains M. Badry's personal notes and summaries on [DeepLearning.ai](https://deeplearning.ai) specialization courses. 
+
+I completed the course in Septermber/Octiber of 2019 and decided to fork M. Badry's personal notes as they're a great starting point to revise the DeepLearning course material and also a good kick-off point to make any edits arising from my own understaning. 
+
+I've left the Readme mostly as it is. 
 
 [DeepLearning.ai](https://deeplearning.ai)  contains five courses which can be taken on [Coursera](https://www.coursera.org/specializations/deep-learning). The five courses titles are:
 
